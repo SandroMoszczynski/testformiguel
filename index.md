@@ -2,6 +2,5 @@
 
 The main parts of a recipie
 - pizza
-- some other things
-- something else
-
+- sauces
+- spreads
